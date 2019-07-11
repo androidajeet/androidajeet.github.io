@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/SonyApp-React/static/css/main.98cfff55.chunk.css",
-    "main.js": "/SonyApp-React/static/js/main.7d8c30a9.chunk.js",
-    "main.js.map": "/SonyApp-React/static/js/main.7d8c30a9.chunk.js.map",
+    "main.css": "/SonyApp-React/static/css/main.c1c1f2c6.chunk.css",
+    "main.js": "/SonyApp-React/static/js/main.ebdbba3d.chunk.js",
+    "main.js.map": "/SonyApp-React/static/js/main.ebdbba3d.chunk.js.map",
     "runtime~main.js": "/SonyApp-React/static/js/runtime~main.f46ba01a.js",
     "runtime~main.js.map": "/SonyApp-React/static/js/runtime~main.f46ba01a.js.map",
     "static/css/2.57797527.chunk.css": "/SonyApp-React/static/css/2.57797527.chunk.css",
-    "static/js/2.40c50b8b.chunk.js": "/SonyApp-React/static/js/2.40c50b8b.chunk.js",
-    "static/js/2.40c50b8b.chunk.js.map": "/SonyApp-React/static/js/2.40c50b8b.chunk.js.map",
+    "static/js/2.323540d4.chunk.js": "/SonyApp-React/static/js/2.323540d4.chunk.js",
+    "static/js/2.323540d4.chunk.js.map": "/SonyApp-React/static/js/2.323540d4.chunk.js.map",
     "index.html": "/SonyApp-React/index.html",
-    "precache-manifest.8cc13b5bd1cd58c3b92e48dad5886d8f.js": "/SonyApp-React/precache-manifest.8cc13b5bd1cd58c3b92e48dad5886d8f.js",
+    "precache-manifest.d913394c67f09efec83343caf531e121.js": "/SonyApp-React/precache-manifest.d913394c67f09efec83343caf531e121.js",
     "service-worker.js": "/SonyApp-React/service-worker.js",
     "static/css/2.57797527.chunk.css.map": "/SonyApp-React/static/css/2.57797527.chunk.css.map",
-    "static/css/main.98cfff55.chunk.css.map": "/SonyApp-React/static/css/main.98cfff55.chunk.css.map",
-    "static/media/banner2.jpg": "/SonyApp-React/static/media/banner2.34230e4b.jpg",
-    "static/media/logo.png": "/SonyApp-React/static/media/logo.a89472b6.png",
-    "static/media/product.jpg": "/SonyApp-React/static/media/product.9a01454c.jpg"
+    "static/css/main.c1c1f2c6.chunk.css.map": "/SonyApp-React/static/css/main.c1c1f2c6.chunk.css.map"
   }
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SonyApp-React/precache-manifest.8cc13b5bd1cd58c3b92e48dad5886d8f.js"
+  "/SonyApp-React/precache-manifest.d913394c67f09efec83343caf531e121.js"
 );
 
 self.addEventListener('message', (event) => {
